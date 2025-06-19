@@ -1,12 +1,3 @@
-//B1 Khởi tao giá trị số lượng phần tử n(0<n<=100)
-//khởi taọ countNumber ;
-//khởi tạo count(đếm số lần xuất hiện)
-//B2 Cấp phát động int*array(dùng malloc)
-//B3 Duyêt qua array
-//Đếm số lầm xuất hiện
-//Nếu tồn tại thì count++;
-//B4 : In ra count ;
-//B5: Giải phóng cấp phát động ;
 #include <stdio.h>
 #include <stdlib.h>
 
